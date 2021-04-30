@@ -1,3 +1,3 @@
-# Creating Interactive Geographic Maps
+# Interactive Geographic Maps to Visualize Worldwide Obesity
 
-[View the Full Project: Creating Interactve Geographic Maps](https://nbviewer.jupyter.org/github/stephentaul22/Interactive-Geographical-Map-Practice/blob/main/Interactive_Geographical_Map_Practice.ipynb)
+[View the Full Project: Interactve Geographic Maps to Visualize Worldwide Obesity](https://nbviewer.jupyter.org/github/stephentaul22/Interactive-Geographical-Map-Practice/blob/main/Interactive_Geographical_Map_Practice.ipynb)
